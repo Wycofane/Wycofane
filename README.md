@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Wycofane<br>👀 I’m interested in Python3 and Java<br>🌱 I’m currently learning Python3, Java and C.<br>📫 How to reach me: Discord [GER]Julian#3726
+👋 Hi, I’m @Wycofane<br>👀 I’m interested in Python3 and Java<br>🌱 I’m currently learning Python3, Java and C.<br>
 
 
 ## 🌐 Socials:
